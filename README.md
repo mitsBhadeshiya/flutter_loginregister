@@ -3,7 +3,7 @@
 <table> 
   <tr>
     <td colspan="2"> 
-      simple Login demo 
+      simple Login demo <br> 
       Video URL: https://youtube.com/shorts/qkuiRR-FO_I
     </td>
   </tr>
@@ -19,7 +19,7 @@
 
  <tr>
     <td colspan="2"> 
-      Background login register screen
+      Background login register screen<br> 
       Video URL: https://youtu.be/AZ9znEoz4Mk
     </td>
   </tr>
@@ -34,7 +34,7 @@
 
   <tr>
     <td colspan="2"> 
-      Flutter login register screen with blur background
+      Flutter login register screen with blur background<br> 
       Video URL: https://youtu.be/sdDUP0rpN80
     </td>
   </tr>
@@ -50,7 +50,7 @@
 
    <tr>
     <td colspan="2"> 
-      Flutter login register screen with glass effect
+      Flutter login register screen with glass effect<br> 
       Video URL: https://youtube.com/shorts/stN3qloyrOE
     </td>
   </tr>
