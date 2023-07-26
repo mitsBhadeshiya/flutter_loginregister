@@ -1,7 +1,5 @@
 # flutter_loginregister
 
-
-
 <table> 
   <tr>
     <td colspan="2"> 
