@@ -4,7 +4,7 @@
 
 <table> 
   <tr>
-    <td rowspan="2"> 
+    <td colspan="2"> 
       Hey ldskfjds ljflkjs dlfkjsdklfj slkdfjlksdjf kdsjfklsd fjksdjf dslkfj
     </td>
   </tr>
